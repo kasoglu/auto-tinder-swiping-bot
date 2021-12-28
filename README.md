@@ -20,7 +20,7 @@ Download the source code from the repository and run the file just as any other 
 python3 main.py
 ```
 
-* Note! For the code to work you need to replace all the placeholders with your own details. e.g. ```CHROME_DRIVER_PATH```, ```ACCOUNT_EMAIL```,```ACCOUNT_PASSWORD```,```PHONE_NUMBER```. 
+* Note! For the code to work you need to replace all the placeholders with your own details. e.g. ```CHROME_DRIVER_PATH```, ```FB_EMAIL```,```FB_PASSWORD```,.
 
 Follow these instructions below.
 
