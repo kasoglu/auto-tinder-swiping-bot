@@ -1,4 +1,5 @@
-# auto-tinder-swiping-bot
+# Auto Tinder Swiping Bot
+
 An Auto Tinder Swiping Bot swipes right on [Tinder](https://tinder.com) instead of you.
 
 
