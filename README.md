@@ -40,6 +40,6 @@ Check out the articles below for installing.
 
 # Documentations
 
-* [Selenium](http://myhttpheader.com/)
+* [Selenium](https://www.selenium.dev)
 * [Google Chrome Download](https://docs.python.org/3/library/smtplib.html)
 * [Chrome Driver](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
